@@ -1,0 +1,4 @@
+input, expected
+AAAATT, TTTTAA
+ATATGTGC, TATACACG
+CGAT, GCTA
